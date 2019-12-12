@@ -1,0 +1,59 @@
+.del{
+    float: right;
+    width: 50px;
+    height: 25px;
+    background-size:25px;
+    border: black solid 2px;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+}
+
+.btn{
+    display: inline-block;
+    width: 134px;
+    height: 25px;
+    background-size:50px;
+    border: black solid 2px;
+    margin:5px
+}
+
+#inp{
+    width: 700px;
+    margin: 5px;
+}
+
+input{
+    margin: 5px;
+    padding: 5px;
+}
+
+.text{
+    background-size:50px;
+    width: 268px;
+    min-height: 50px;
+    float: left;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.list{
+    width: 334px;
+}
+p{
+    margin: 15px;
+}
+ul{
+    list-style:none;
+}
+li{
+    margin:5px;
+
+}
+span{
+    float: right;
+    margin: 10px;
+    font-size: 12px;
+}
